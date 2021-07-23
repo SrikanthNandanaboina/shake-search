@@ -1,6 +1,6 @@
 # ShakeSearch
 
-Welcome to the Pulley Shakesearch Take-home Challenge! In this repository,
+In this repository,
 you'll find a simple web app that allows a user to search for a text string in
 the complete works of Shakespeare.
 
